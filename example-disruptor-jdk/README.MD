@@ -1,5 +1,10 @@
 # Disruptor
 
+
+## 入门视频
+[高性能百万QPS队列Disruptor解密](https://www.bilibili.com/video/BV1BJ41157Te) 
+**此教程中有个多生产者多消费者案例**
+
 ## 参考资料
 [并发框架Disruptor译文](https://ifeve.com/disruptor/)
 
